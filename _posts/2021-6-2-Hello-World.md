@@ -3,7 +3,7 @@ layout: post
 title: Ανταλλακτήριο κρυπτονομισμάτων!
 published: true
 ---
-
+<a href="https://r.kraken.com/c/2649662/696558/10583" target="_top" id="696558"><img src="//a.impactradius-go.com/display-ad/10583-696558" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2649662/696558/10583" style="position:absolute;visibility:hidden;" border="0" />
 *Τα links παρακάτω ε΄΄ιναι referral και δεν είναι υποχρεωτικά*
 
 Σε περίπτωση που κάνεις mining ή θες να ασχοληθείς με crypto trading, το μόνο σίγουρο είναι ότι χρειάζεσαι ένα ανταλλακτήριο (exchange). 
