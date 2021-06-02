@@ -12,7 +12,7 @@ published: true
 
 Η προσωπική εμπειρία ξεχωρίζει τα 3 παρακάτω exchanges, δοκιμασμένα από πολύ κόσμο:
 1. [Binance.com](https://www.binance.com/en/register?ref=X45ARFPU) - μέγαλος εύρος σε κρυπτονομίσματα (ακόμα και σε altcoins), χαμηλά [fees](https://www.binance.com/en/trade-rule) (λιγότερα και από το kraken) και έχει και mining pool. Περιέχει και πολλές εξειδικευμένες επιλογές πχ Futures, Liquid Swapping. Είναι το βασικό ανταλλακτήριο που χρησιμοποιώ μαζί με Kraken.
-2. [Kraken](https://r.kraken.com/5X0yN) - Καλό customer support, με χαμηλά [fees](https://www.kraken.com/features/fee-schedule) και τίμιο εύρος κρυπτονομισμάτων (κυρίως τα γνωστά και με ικανοποιητικά staking.
+2. [Kraken](https://r.kraken.com/c/2649662/696558/10583) - Καλό customer support, με χαμηλά [fees](https://www.kraken.com/features/fee-schedule) και τίμιο εύρος κρυπτονομισμάτων (κυρίως τα γνωστά και με ικανοποιητικά staking.
 3. Coinbase - Εύκολο στην χρήση, με υψηλά fees. Προτείνω την αποφυγή του, αν και αποτελεί αξιόπιστη επιλογή, λόγω των fees και τα συχνά downtime του σε ώρες αιχμής. Αποτελεί την πρώτη μου επαφή με τον χώρο των κρυπτονομισμάτων (2014).
 
 
