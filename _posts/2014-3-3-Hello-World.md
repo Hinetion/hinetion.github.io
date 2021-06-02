@@ -1,10 +1,19 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+*Τα links παρακάτω ε΄΄ιναι referral και δεν είναι υποχρεωτικά*
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Σε περίπτωση που κάνεις mining ή θες να ασχοληθείς με crypto trading, το μόνο σίγουρο είναι ότι χρειάζεσαι ένα ανταλλακτήριο (exchange). 
+Τα ανταλλακτήρια που μπορεί να διαλέξει κάποιος είναι αμέτρητα, ποιές είναι όμως οι διαφορές τους?
+Οι κύριες διαφορές τους είναι στους κανόνες συναλλαγών (πχ Minimum Trade Amount), Withdraw limit, fees και γενικά τα κρυπτονομίσματα που προσφέρουν!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Η προσωπική εμπειρία ξεχωρίζει τα 3 παρακάτω exchanges, δοκιμασμένα από πολύ κόσμο:
+1. [Binance.com](https://www.binance.com/en/register?ref=X45ARFPU) - μέγαλος εύρος σε κρυπτονομίσματα (ακόμα και σε altcoins), χαμηλά [fees](https://www.binance.com/en/trade-rule) (λιγότερα και από το kraken) και έχει και mining pool. Περιέχει και πολλές εξειδικευμένες επιλογές πχ Futures, Liquid Swapping. Είναι το βασικό ανταλλακτήριο που χρησιμοποιώ μαζί με Kraken.
+2. [Kraken](r.kraken.com/5X0yN) - Καλό customer support, με χαμηλά [fees](https://www.kraken.com/features/fee-schedule) και τίμιο εύρος κρυπτονομισμάτων (κυρίως τα γνωστά και με ικανοποιητικά staking.
+3. Coinbase - Εύκολο στην χρήση, με υψηλά fees. Προτείνω την αποφυγή του, αν και αποτελεί αξιόπιστη επιλογή, λόγω των fees και τα συχνά downtime του σε ώρες αιχμής. Αποτελεί την πρώτη μου επαφή με τον χώρο των κρυπτονομισμάτων (2014).
+
+
+Υπάρχουν και άλλα πολλά ανταλλακτήρια, αλλά αναφέρομαι σε αυτά που έχω χρησιμοποιήσει αρκετό καιρό για να μπορώ να σχηματίσω άποψη. Αν υπάρχουν κάποια που θέλετε να δοκιμάσω, επικοινωνείστε μαζί μου!
